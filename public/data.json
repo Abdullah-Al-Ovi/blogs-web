@@ -1,0 +1,48 @@
+[
+    {
+      "id": "1",
+      "title": "Exploring the Universe",
+      "author": "John Doe",
+      "author_img": "https://img.freepik.com/free-vector/hiking-nature-social-media-profile-cover_23-2149673105.jpg?w=740&t=st=1694547597~exp=1694548197~hmac=e9183f27fabbcd527ccf3764b58372ddee00b7755590fd364c300b2edf2a3495",
+      "posted_date": "2023-09-15",
+      "reading_time": 10,
+      "hashtags": ["#space", "#astronomy"]
+    },
+    {
+      "id": "2",
+      "title": "The Art of Cooking",
+      "author": "Jane Smith",
+      "author_img": "https://img.freepik.com/free-vector/minimalist-grid-travel-lifestyle-blog-header_23-2149278586.jpg?w=740&t=st=1694547628~exp=1694548228~hmac=a3b2f3ec0dca70cfa9233f08443b965b9c2e85f1ec1a87053f327329892670eb",
+      "posted_date": "2023-09-14",
+      "reading_time": 15,
+      "hashtags": ["#cooking", "#recipes"]
+    },
+    {
+      "id": "3",
+      "title": "Coding for Beginners",
+      "author": "Mike Johnson",
+      "author_img": "https://img.freepik.com/free-vector/travel-banner-blog-template_23-2148708728.jpg?w=740&t=st=1694547701~exp=1694548301~hmac=a76e9ea628a7ffa07bb7123e4e48259aba208e91d94055009e3f9fdfa49f2039",
+      "posted_date": "2023-09-13",
+      "reading_time": 20,
+      "hashtags": ["#programming", "#coding"]
+    },
+    {
+      "id": "4",
+      "title": "Traveling the World",
+      "author": "Sarah Lee",
+      "author_img": "https://img.freepik.com/free-vector/business-workshop-facebook-cover_23-2149381284.jpg?w=996&t=st=1694547723~exp=1694548323~hmac=b9e07cfcfb8d3e251f1049e9220349e6f1d415030254401b70654ed02c05f523",
+      "posted_date": "2023-09-12",
+      "reading_time": 30,
+      "hashtags": ["#travel", "#adventure"]
+    },
+    {
+      "id": "5",
+      "title": "Healthy Living Tips",
+      "author": "David Brown",
+      "author_img": "https://img.freepik.com/free-psd/mental-health-awareness-template-psd-support-groups-presentation_53876-123477.jpg?w=996&t=st=1694547766~exp=1694548366~hmac=c8a04a309ce726f300e57e1996541f415c386bf09c584d561677b8b0e5769bb3",
+      "posted_date": "2023-09-11",
+      "reading_time": 12,
+      "hashtags": ["#health", "#wellness"]
+    }
+  ]
+  
